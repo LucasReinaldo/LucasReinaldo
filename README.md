@@ -4,6 +4,6 @@
 <br>
 <p align='center'><samp>I also make a great barista coffee! :)</samp></p>
 <p align='center'>
-<a href="https://www.linkedin.com/in/lucas-reinaldo-de-melo/"><img height="26" src="https://raw.githubusercontent.com/LucasReinaldo/LucasReinaldo/master/assets/linkedin.png?raw=true" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:lucasreinaldo.demelo@hotmail.com"><img height="26" src="https://raw.githubusercontent.com/LucasReinaldo/LucasReinaldo/master/assets/mail.png?raw=true" alt="Mail"></a>
+<a href="https://www.linkedin.com/in/lucas-reinaldo-de-melo/"><img height="26" src="https://github.com/LucasReinaldo/LucasReinaldo/blob/master/assets/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:lucasreinaldo.demelo@hotmail.com"><img height="26" src="https://github.com/LucasReinaldo/LucasReinaldo/blob/master/assets/mail.svg" alt="Mail"></a>
 </p>
