@@ -1,5 +1,6 @@
 <h3 align='center'><samp><strong>Lucas Reinaldo de Melo</strong></samp></h3> 
 <h3 align='center'><samp>FullStack Developer</samp></h3>
+<br>
 <p align='center'><samp>JavaScript - TypeScript</samp></p>
 <p align='center'><samp>NodeJS - ReactJS - ReactNative</samp></p>
 <br>
