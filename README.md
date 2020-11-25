@@ -1,7 +1,7 @@
 <h2 align='center'><samp><strong>Lucas Reinaldo de Melo</strong></samp></h2> 
 <br>
 <p><samp>I am a Bilingual professional (Portuguese & English).</samp></p>
-<p><samp>My main stack at the moment is based in <strong>JavaScript, TypeScript, ReactJS, NodeJS and React Native.</strong></samp></p>
+<p><samp>My main working tools at the moment: <strong>JavaScript, TypeScript, ReactJS, NodeJS</strong> and <strong>React Native.</strong></samp></p>
 
 <p><samp>Learning about: NextJS, Animated and Reanimated API (React Native), Redux and making progress in master Responsive designs.
 
