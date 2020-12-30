@@ -15,3 +15,5 @@
   </span>
 </p>
 <p align='center'><samp>I also make a great barista coffee! :)</samp></p>
+
+[![LucasReinaldo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreinaldo&layout=compact&theme=onedark)](https://github.com/lucasreinaldo)
