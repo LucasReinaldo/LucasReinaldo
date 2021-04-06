@@ -2,9 +2,9 @@
 <h2 align='center'><samp><strong>Lucas Reinaldo de Melo</strong></samp></h2> 
 <br>
 <p><samp>I am a Bilingual professional (Portuguese & English).</samp></p>
-<p><samp>My main working tools at the moment: <strong>JavaScript, TypeScript, ReactJS, NodeJS</strong> and <strong>React Native.</strong></samp></p>
+<p><samp>Stack: <strong>JavaScript, TypeScript, ReactJS, NodeJS</strong> and <strong>React Native.</strong></samp></p>
 
-<p><samp>Learning about: NextJS, Animated and Reanimated API (React Native), Redux, and making progress in master Responsive designs.</samp></p>
+<p><samp>Learning: NextJS, Golang, React Testing Library, Tests, Software Architecture, Redux, and making progress in master Responsive designs.</samp></p>
 
 <p><samp>Interested in having someone that you can really count on? Please feel free to contact me.</samp></p>
 
