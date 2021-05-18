@@ -4,9 +4,9 @@
 <p><samp>I am a Bilingual professional (Portuguese & English).</samp></p>
 <p><samp>Stack: <strong>JavaScript, TypeScript, ReactJS, NodeJS</strong> and <strong>React Native.</strong></samp></p>
 
-<p><samp>Learning: NextJS, Golang, React Testing Library, Tests, Software Architecture, Redux, and making progress in master Responsive designs.</samp></p>
+<p><samp>Learning: NextJS, Golang, React Testing Library, Software Architecture, Redux, and making progress in master Responsive designs.</samp></p>
 
-<p><samp>Interested in having someone that you can really count on? Please feel free to contact me.</samp></p>
+<p><samp>Looking for an ambitious company that will challenge my developer and problem-solving skills and allows me to continue to develop my knowledge and potential.</samp></p>
 
 <div align="center">
   <p align='center'>
