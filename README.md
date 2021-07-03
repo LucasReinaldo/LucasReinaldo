@@ -1,12 +1,9 @@
 
 <h2 align='center'><samp><strong>Lucas Reinaldo de Melo</strong></samp></h2> 
 <br>
-<p><samp>I am a Bilingual professional (Portuguese & English).</samp></p>
 <p><samp>Stack: <strong>JavaScript, TypeScript, ReactJS, NodeJS</strong> and <strong>React Native.</strong></samp></p>
 
 <p><samp>Learning: NextJS, Golang, React Testing Library, Software Architecture, Redux, and making progress in master Responsive designs.</samp></p>
-
-<p><samp>Looking for an ambitious company that will challenge my developer and problem-solving skills and allows me to continue to develop my knowledge and potential.</samp></p>
 
 <div align="center">
   <p align='center'>
