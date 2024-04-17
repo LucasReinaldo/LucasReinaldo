@@ -1,6 +1,5 @@
+<samp>Solving problems using weird languages.</samp>
 
-<samp>Building [Cambrean](https://twitter.com/CambreanHQ).</samp>
+<samp>Drinking black coffee.</samp>
 
-<div align="center">
-  <p align='center'><samp>I also make a great barista coffee! :)</samp></p>
-</div>
+<samp>Writing [stuff](https://medium.com/@l.reinaldodemelo).</samp>
